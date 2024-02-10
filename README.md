@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-```markdown
+
 # Arjun Bakhale
 
 ## Ashburn, VA | 703-728-1764 | arjun.bakhale@gmail.com 
-
-### EDUCATION
-**EXPECTED GRADUATION DATE:** June 2025  
-Briar Woods High School, ITCS pathway  
-**GPA:** 4.62 | **SAT:** 1530  
 
 ### TECHNICAL SKILLS
 - Python
@@ -29,28 +24,18 @@ Briar Woods High School, ITCS pathway
 - Programmed React Native components for a conservation mobile app.
 - Led AI De-Extinction project to reconstruct DNA sequences.
 
-**CTO, Nivaro**  
+**CIO, Nivaro**  
 - Managed tech for EdTech startup, using React.js, Node.js, TailwindCSS.
   
-**Board Member, LCPS CS Advisory Board**  
-- Redesigned county’s CS program.
-- Engineered website simplifying course selection.
 
 ---
 
 ### AWARDS & RECOGNITION
 
-- Solar Sprint: Best in State, Top 50 Nationally.
+- TSA: Best in State, Top 50 Nationally.
 - ACSL All-Star.
 
----
 
-### RELEVANT COURSEWORK
-
-- AP Calculus BC
-- AP Statistics
-- AP Language and Composition
-- AP Economics
 ```
 
 
