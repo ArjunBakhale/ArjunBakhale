@@ -3,7 +3,7 @@
 
 # Arjun Bakhale
 
-## Ashburn, VA | 703-728-1764 | arjun.bakhale@gmail.com 
+## Ashburn, VA | arjun.bakhale@gmail.com 
 
 ### TECHNICAL SKILLS
 - Python
