@@ -34,6 +34,7 @@
 
 - TSA: Best in State, Top 50 Nationally.
 - ACSL All-Star.
+- VEX Robotics: State Semifinals
 
 
 
