@@ -19,13 +19,17 @@
 
 ### INTERNSHIPS & PROJECTS
 
-**Mobile App & Computer Vision Intern, Kashmir World Foundation**  
+**SWE @ Howard Hughes Medical Institute (HHMI)
+- Automating evaluation of a RAG (Retrieval Augmented Generation) LLM indexed with Janelia lab data
+- Developing Slack integrations boosting product engagement 300%
+
+**Computer Vision Lead & Mobile Dev, Kashmir World Foundation**  
+- Lead optimization of hyperparameters to create an efficient animal identification YOLOv8 model.
 - Developed Python flight scripts for drone wildlife identification.
 - Programmed React Native components for a conservation mobile app.
-- Led AI De-Extinction project to reconstruct DNA sequences.
 
 **CIO, Nivaro**  
-- Managed tech for EdTech startup, using React.js, Node.js, TailwindCSS.
+- Built the Nivaro website, a EdTech startup, using React.js, Node.js, TailwindCSS.
   
 
 ---
