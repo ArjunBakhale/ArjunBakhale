@@ -19,7 +19,7 @@
 
 ### INTERNSHIPS & PROJECTS
 
-**SWE @ Howard Hughes Medical Institute (HHMI)
+**SWE @ Howard Hughes Medical Institute (HHMI)**
 - Automating evaluation of a RAG (Retrieval Augmented Generation) LLM indexed with Janelia lab data
 - Developing Slack integrations boosting product engagement 300%
 
