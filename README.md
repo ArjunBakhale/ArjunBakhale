@@ -28,7 +28,7 @@
 - Developed Python flight scripts for drone wildlife identification.
 - Programmed React Native components for a conservation mobile app.
 
-**CIO, Nivaro**  
+**CTO, Nivaro**  
 - Built the Nivaro website, a EdTech startup, using React.js, Node.js, TailwindCSS.
   
 
