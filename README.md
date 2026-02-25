@@ -1,6 +1,6 @@
-# I'm Arjun
-# Studying CS @ Georgia Tech
-# Building in agtech & govtech 
+# Arjun Bakhale
+### CS @ Georgia Tech
+#### Building in agtech & govtech
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
@@ -12,6 +12,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
-
 ![Streak](https://streak-stats.demolab.com?user=ArjunBakhale&theme=tokyonight&hide_border=true)
 
+![Stats](https://github-stats.as93.net/ArjunBakhale.svg)
