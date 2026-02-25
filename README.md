@@ -13,5 +13,3 @@
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
 ![Streak](https://streak-stats.demolab.com?user=ArjunBakhale&theme=tokyonight&hide_border=true)
-
-![Stats](https://github-stats.as93.net/ArjunBakhale.svg)
