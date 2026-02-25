@@ -1,6 +1,6 @@
-I'm Arjun
-Studying CS @ Georgia Tech
-Building in agtech & govtech 
+# I'm Arjun
+# Studying CS @ Georgia Tech
+# Building in agtech & govtech 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
@@ -12,9 +12,6 @@ Building in agtech & govtech
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunBakhale&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunBakhale&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com?user=ArjunBakhale&theme=tokyonight&hide_border=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ArjunBakhale&theme=tokyonight&no-frame=true&row=1&column=6)
