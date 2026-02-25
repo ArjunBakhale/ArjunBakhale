@@ -1,45 +1,10 @@
-### Hi there 👋
+# CS @ Georgia Tech
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
-# Arjun Bakhale
-
-## Ashburn, VA | arjun.bakhale@gmail.com 
-
-### TECHNICAL SKILLS
-- Python
-- React/React Native
-- Computer Vision
-- Java
-- HTML/JS/CSS
-- Node.js
-- TailwindCSS
-- Docker
-
----
-
-### INTERNSHIPS & PROJECTS
-
-**SWE @ Howard Hughes Medical Institute (HHMI)**
-- Automating evaluation of a RAG (Retrieval Augmented Generation) LLM indexed with Janelia lab data
-- Developing Slack integrations boosting product engagement 300%
-
-**Computer Vision Lead & Mobile Dev, Kashmir World Foundation**  
-- Lead optimization of hyperparameters to create an efficient animal identification YOLOv8 model.
-- Developed Python flight scripts for drone wildlife identification.
-- Programmed React Native components for a conservation mobile app.
-
-**CTO, Nivaro**  
-- Built the Nivaro website, a EdTech startup, using React.js, Node.js, TailwindCSS.
-  
-
----
-
-### AWARDS & RECOGNITION
-
-- TSA: Best in State, Top 50 Nationally.
-- ACSL All-Star.
-- VEX Robotics: State Semifinals
-
-
-
-
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunBakhale&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunBakhale&layout=compact&theme=dark)
