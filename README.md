@@ -1,6 +1,6 @@
 # Arjun Bakhale
 ### CS @ Georgia Tech
-#### Building in agtech & govtech
+#### Building @ hamming.ai
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
