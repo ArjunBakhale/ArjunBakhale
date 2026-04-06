@@ -12,4 +12,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
-![Streak](https://streak-stats.demolab.com?user=ArjunBakhale&theme=tokyonight&hide_border=true)
